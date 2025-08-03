@@ -154,3 +154,60 @@ Bu sprintte, yapay zekâ destekli özet çıkarma modülünün veri hazırlık v
 ## 🔄 Sprint Retrospective
 
 Sprint sonunda takım olarak süreçlerimizi değerlendirdik. Bu sprintte takım içi iletişim ve görev dağılımı başarılı şekilde yürütüldü. İletişim düzenli olarak devam etti ve önemli görevler zamanında tamamlandı. Takım olarak son sprintte toplantı ve teslim tarihlerine daha sıkı süreler vermeyi kararlaştırdık. 
+
+# 🟩 Sprint 3 Raporu
+
+## 🟩 Sprint 3 Notları
+Bu sprintte temel amaç; frontend ve backend bileşenlerinin birleştirilmesi, sektör seçimi akışının oluşturulması ve yapay zekâ (LLM) modülünün sisteme entegre edilerek temel çıktıların alınmasıydı. Sprint 3'te yalnızca Giriş/Kayıt ekranı tamamlanabilmiş olup, diğer görevlerde ilerleme kaydedilememiştir. Zaman yönetimi, görev paylaşımı veya teknik engeller gibi faktörlerin değerlendirilmesi gerekmektedir.
+
+## 🔎 Sprint Hedefleri
+
+Sprint 3'te temel kullanıcı arayüzü ile birlikte kayıt sistemi entegrasyonu ve sistemin uçtan uca minimum çalışır halinin ortaya çıkarılması hedeflenmiştir. Ayrıca LLM entegrasyonu yapılması planlanmıştır.
+
+## ✅ Gerçekleştirilen Görevler
+
+- [x] Giriş/kayıt ekranı
+      
+## 🔢 Story Point Tahminleri
+
+| Görev                                | SP  | Durum     |
+|--------------------------------------|-----|-----------|
+| Giriş/kayıt ekranı                   | 3   | ✅ Tamamlandı |
+| Backend                              | 4   | ❌ Tamamlanmadı |
+| Sektör seçimi + çıktı ekranı         | 4   | ❌ Tamamlanmadı |
+| Frontend bağlantısı                  | 2   | ❌ Tamamlanmadı |
+| LLM                                  | 5   | ❌ Tamamlanmadı |
+
+Toplam SP hedefi: **18**  
+Tamamlanan: **3 SP** → Başarı oranı: **%16,66**
+
+## 🧠 Tahmin Mantığı
+
+Story point'ler; teknik karmaşıklık, zaman tahminine göre belirlendi. Story pointler Fibonacci dizisi ile değerlendirildi.
+
+## ✅ Screenshots
+Projekadan görüntü ve veri düzenimiz.
+![Projeka](images/projeka.png)
+
+
+
+## 🕓 Daily Scrum Özetleri
+
+Takım olarak konuşmalarımızı genellikle Whatsapp üzerinden gerçekleştirdik. Toplantılarda her ekip üyesi o gün üzerinde çalıştığı görevleri, yaşadığı engelleri ve bir sonraki adımını paylaştı. Trello üzerinden ayrı bir daily panosu kullanıldı.
+![Daily scrum](images/daily3.jpg)
+
+
+
+## 📋 Sprint Board
+![Sprint Board](images/trellopano3.png)
+## 🔄 Sprint Review
+
+Bu sprintte, projenin temel bileşenlerini birleştirerek çalışır bir sistem elde etmek hedeflendi. Ancak süre sonunda planlanan görevlerin büyük bölümü tamamlanamadı. Giriş/kayıt ekranı dışında, backend, frontend bağlantısı ve LLM entegrasyonu gibi kritik adımlar eksik kaldı. Sprint sonunda mevcut ilerleme ekip ile birlikte değerlendirilerek eksik noktalar tespit edildi. Proje süresi dolduğu için hedeflenen ürün ortaya konamadı, ancak teknik altyapı ve planlama konusunda önemli deneyimler edinildi.
+
+## 🔄 Sprint Retrospective
+
+Bu sprintte projenin son adımlarını tamamlamayı hedefledik. Bazı teknik engeller ve zaman sınırlamaları nedeniyle planladığımız tüm işleri tamamlayamasak da, bu süreç boyunca birlikte değerli deneyimler kazandık.
+Özellikle görevler arasındaki bağımlılıkları ve altyapı hazırlığının önemini bu sprintte daha net şekilde gözlemledik. Her bir ekip üyesinin katkısı ve çabası, projenin şekillenmesinde büyük rol oynadı.
+Proje süresinin sonuna gelmiş olsak da, birlikte çalışırken edindiğimiz tecrübeler, takım içi dayanışmamız ve öğrendiğimiz dersler bir sonraki projelerimizde bize yol gösterecek.
+
+Emeği geçen herkese teşekkürler! 🙌 
